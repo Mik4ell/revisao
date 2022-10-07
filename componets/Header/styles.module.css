@@ -1,0 +1,6 @@
+.paragrafo{
+    display:grid ;
+  height:15vh ;
+  grid-area: a;
+  background-color: gray;
+}

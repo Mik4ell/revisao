@@ -1,0 +1,11 @@
+.paragrafo{
+    display : grid;
+  grid-template: "a a a a"
+                 "b c c c"
+                 "d d d d";
+  
+  width :100vw;
+  height: 100vh;
+  grid-gap: 5px;
+  background-color: black;
+}
